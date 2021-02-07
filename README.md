@@ -90,7 +90,7 @@ Pour récupérer un jeu qu'on a back, il suffit de cliquer sur ce jeu dans le la
 <details>
   <summary>GIF</summary> 
   
-![Uplay](https://i.imgur.com/O3WCM9h.mp4)
+![Uplay](https://i.imgur.com/O3WCM9h.gifv)
 </details>
 
 ## Origin
