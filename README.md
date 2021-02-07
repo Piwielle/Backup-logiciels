@@ -106,7 +106,7 @@ Pour récupérer un jeu qu'on a back, il suffit de cliquer sur ce jeu dans le la
 # Paramètres de jeux : 
 
 ## CS GO
-Pour CS:GO, tous les paramètres seront sauvegardés si vous faites une sauvegarde du dossier du jeu, et du dossier **userdata** de Steam, comme indiqué dans (#steam)
+Pour CS:GO, tous les paramètres seront sauvegardés si vous faites une sauvegarde du dossier du jeu, et du dossier **userdata** de Steam, comme indiqué dans [Steam](#steam)
 Si vous souhaitez savoir exactement quels sont les dossiers à récupérer (pour emmener sa config en LAN, par exemple), il vous faut : 
 - le dossier **"cfg"** de **C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo** (ou autre dossier d'installation)
 - le dossier **"730"** de **C:\Program Files (x86)\Steam\userdata\STEAMID**. Pour connaître votre STEAMID, vous pouvez utiliser le site https://steamidfinder.com/. Rentrez votre profil, et la ligne **steamID3** correspondra à un dossier de **userdata**.
