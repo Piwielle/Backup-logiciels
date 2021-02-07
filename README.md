@@ -12,14 +12,21 @@
 </details>
 **Microsoft Edge** : 
 Être connecté avec un compte Microsoft, et avoir synchronisé les favoris.
-paramètres -> Synchroniser 
+paramètres -> Synchroniser
+<details>
+  <summary>Image</summary> 
+  
 ![sync edge](https://i.imgur.com/mHULZFB.png)
+</details>
 
 **Mozilla Firefox** :
 Être connecté avec un compte Mozilla, et avoir synchronisé les favoris.
 Options -> Sync
+<details>
+  <summary>Image</summary> 
+  
 ![sync firefox](https://i.imgur.com/01w20de.png)
-
+</details>
 ## Jeux
 
 ** Steam** :
