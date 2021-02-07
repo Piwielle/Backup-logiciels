@@ -56,6 +56,6 @@ L'empacement par défaut est **C:\Program Files (x86)\Steam** mais vous l'avez p
 ![userdata](https://i.imgur.com/KnLhM1X.gif)
 </details>
 
-**Epic Games Store* :
+**Epic Games Store** :
 
 ## Logiciels : 
