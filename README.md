@@ -5,7 +5,8 @@
 **Google Chrome** : 
 Être connecté avec un compte Google, et avoir synchronisé les favoris. Paramètres -> Services Google/synchronisation -> Gérer les contenus que vous synchronisez, puis choisir ce qui vous intéresse. Vos favoris, extensions, thèmes, onglets, etc seront ensutie synchronisés.
 <details>
-  <summary> 
+  <summary>
+    
     ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `image` 
   </summary> 
   
