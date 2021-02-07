@@ -85,11 +85,12 @@ L'Epic games store étant très mal fait, il n'y a pas de méthode simple pour d
 </details>
 
 ## Uplay
-
+Uplay permet assez facilement de déplacer et localiser des dossiers de jeux. Pour backup un jeu il suffit de cliquer sur le jeu -> propriétés -> ouvrir le dossier. Une fois dans l'exporateur de fichiers, la combinaise de touche **ALT+HAUT** vous permettra de remonter d'un cran. On peut ensuite prendre le dossier du jeu, et le copier ailleurs.
+Pour récupérer un jeu qu'on a back, il suffit de cliquer sur ce jeu dans le launcher, puis sur "localiser le jeu installé", juste en dessous du bouton télécharger.
 <details>
   <summary>GIF</summary> 
   
-![EGS](https://i.imgur.com/iaOgkDl.gif)
+![Uplay](https://i.imgur.com/O3WCM9h.mp4)
 </details>
 
 ## Origin
