@@ -46,9 +46,12 @@ Si vous ne souhaitez pas vous connecter aux navigateurs, il est est aussi possib
 
 ## Steam
 Il est possible de déplacer facilement et librement des jeux de Steam. Pour ce faire, il faut que la destination soit un dossier steam.
+
 Paramètres -> Téléchargements -> Dossiers Steam
+
 Une fois dans ce menu, vous pouvez créer autant de dossiers Steam que vous voulez, à l'endroit que vous voulez.
 On peut ensuite simplement déplacer des jeux d'un dossier Steam à un autre.
+
 Clic droit sur un jeu -> Propriétés -> Fichiers locaux -> Déplacer le dossier d'installation
 <details>
   <summary>GIF</summary> 
