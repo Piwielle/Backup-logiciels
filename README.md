@@ -4,8 +4,10 @@
 
 **Google Chrome** : 
 Être connecté avec un compte Google, et avoir synchronisé les favoris. Paramètres -> Services Google/synchronisation -> Gérer les contenus que vous synchronisez, puis choisir ce qui vous intéresse. Vos favoris, extensions, thèmes, onglets, etc seront ensutie synchronisés.
-![sync chrome](https://i.imgur.com/Xu7gh0t.png)
-
+<details>
+  <summary>Image</summary>
+  ![sync chrome](https://i.imgur.com/Xu7gh0t.png)
+</details>
 **Microsoft Edge** : 
 Être connecté avec un compte Microsoft, et avoir synchronisé les favoris.
 paramètres -> Synchroniser 
