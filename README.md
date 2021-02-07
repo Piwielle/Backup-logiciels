@@ -28,9 +28,11 @@ Options -> Sync
 ![sync firefox](https://i.imgur.com/01w20de.png)
 </details>
 
+Note : Si vous ne souhaitez pas vous connecter aux navigateurs, il est est aussi possible d'exporter vos favoris, de les sauvegarder quelque part, puis de les ré importer après. Par exemple pour Chrome, MAJ + CTRL + O pour ouvrir le gestionnaire de favoris, puis utiliser le menu en haut à droite (les 3 petit points verticaux) pour exporter les favoris.
+
 ## Jeux
 
-** Steam** :
+**Steam** :
 Il est possible de déplacer facilement et librement des jeux de Steam. Pour ce faire, il faut que la destination soit un "dossier steam".
 Paramètres -> Téléchargements -> Dossiers Steam
 Une fois dans ce menu, vous pouvez créer autant de dossiers Steam que vous voulez, à l'endroit que vous voulez.
@@ -47,11 +49,13 @@ Clic droit sur un jeu -> Propriétés -> Fichiers locaux -> Déplacer le dossier
 ![steam déplacer](https://i.imgur.com/M29TObW.png)
 </details>
 Pour sauvegarder absolument tous les réglages des jeux et les sauvegardes, il faut aussi sauvegarder le dossier **userdata** qui est situé dans le dossier de Steam.
-L'empacement par défaut est ** C:\Program Files (x86)\Steam\ ** mais vous l'avez peut-être installé ailleurs.
+L'empacement par défaut est **C:\Program Files (x86)\Steam\** mais vous l'avez peut-être installé ailleurs.
 <details>
   <summary>GIF</summary> 
   
 ![userdata](https://i.imgur.com/KnLhM1X.gif)
 </details>
+
+**Epic Games Store* :
 
 ## Logiciels : 
