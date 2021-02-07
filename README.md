@@ -119,6 +119,8 @@ Les paramètres de R6S sont situés dans le dossier **C:\Users\NOM D'UTILISATEUR
 Une fois dans ce dossier, récupérez le fichier **GameSettings.ini** (ou sauvegardez même le dossier complet "My Games", c'est jamais perdu).
 
 ## Fortnite
+Comme Valorant, certains paramètres de Fortnite sont censés être sauvegardés dans le cloud (les keybinds, notamment).  
+Pour les paramètres graphiques du jeu, vous pouvez backup le fichier **GameUserSettings.ini** situé dans **%localappdata%\FortniteGame\Saved\Config\WindowsClient** (appuyez sur les touches **windows + R** puis coller ce chemin pour y accéder)
 ## League of Legends
 ## PUBG
 ## Apex Legends
