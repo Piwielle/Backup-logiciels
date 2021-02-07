@@ -50,18 +50,18 @@ Paramètres -> Téléchargements -> Dossiers Steam
 Une fois dans ce menu, vous pouvez créer autant de dossiers Steam que vous voulez, à l'endroit que vous voulez.
 On peut ensuite simplement déplacer des jeux d'un dossier Steam à un autre.
 Clic droit sur un jeu -> Propriétés -> Fichiers locaux -> Déplacer le dossier d'installation
-
 <details>
   <summary>GIF</summary> 
   
-![steam déplacer](https://i.imgur.com/M29TObW.png)
+![steam déplacer](https://i.imgur.com/utSc052.gif)
 </details>
+
 Pour sauvegarder absolument tous les réglages des jeux et les sauvegardes, il faut aussi sauvegarder le dossier userdata qui est situé dans le dossier de Steam.
 L'empacement par défaut est **C:\Program Files (x86)\Steam** mais vous l'avez peut-être installé ailleurs.
 <details>
   <summary>GIF</summary> 
   
-![userdata](https://i.imgur.com/utSc052.gif)
+![userdata](https://i.imgur.com/KnLhM1X.gif)
 </details>
 
 ## Epic Games Store
