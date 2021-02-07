@@ -69,7 +69,7 @@ Clic droit sur un jeu -> Propriétés -> Fichiers locaux -> Déplacer le dossier
 ![steam déplacer](https://i.imgur.com/j7t6fbL.gif)
 </details>
 
-Pour sauvegarder absolument tous les réglages des jeux et les sauvegardes, il faut aussi sauvegarder le dossier userdata qui est situé dans le dossier de Steam.
+Pour sauvegarder absolument tous les réglages des jeux et les sauvegardes, il faut aussi sauvegarder le dossier userdata qui est situé dans le dossier de Steam.  
 L'empacement par défaut est **C:\Program Files (x86)\Steam** mais vous l'avez peut-être installé ailleurs.
 <details>
   <summary>GIF</summary> 
