@@ -5,7 +5,7 @@
 ## Navigateurs
  - [**Google Chrome**](#google-chrome)
  - [**Désactivation des drivers automatiques**](#désactivation-des-drivers-automatiques--tweaks-regedit)
- - [**Mozilla Firefox**](#mozilla-firefox)
+ - [**Mozilla Firefox**](#Mozilla-Firefox)
 
 # Navigateurs
 
