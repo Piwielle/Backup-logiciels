@@ -117,6 +117,7 @@ Ceci dit, on est pas à l'abri d'un bug, alors je vous suggère **fortement** de
 ## R6S
 Les paramètres de R6S sont situés dans le dossier **C:\Users\NOM D'UTILISATEUR\Documents\My Games**. Vous pouvez accéder directement au dossier sur n'importe quel PC en appuyant sur les touches **windows + R** puis en collant 
 - **%USERPROFILE%\Documents\My Games**  
+
 Une fois dans ce dossier, récupérez le fichier **GameSettings.ini** (ou sauvegardez même le dossier complet "My Games", c'est jamais perdu).
 
 ## Fortnite
