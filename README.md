@@ -90,7 +90,7 @@ Pour récupérer un jeu qu'on a back, il suffit de cliquer sur ce jeu dans le la
 <details>
   <summary>GIF</summary> 
   
-![Imgur](https://i.imgur.com/UGheoEv.gif)
+![Imgur](https://i.imgur.com/GChK1NH.gif)
 </details>
 
 ## Origin
