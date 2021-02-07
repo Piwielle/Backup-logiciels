@@ -115,7 +115,7 @@ Récuperez ces deux dossiers, remettez les à leur place sur un autre PC, et vou
 Les paramètres de Valorant étant tous synchronisés en ligne, y'a rien à backup.  
 Ceci dit, on est pas à l'abri d'un bug, alors je vous suggère **fortement** de prendre 2 minutes pour noter exactement vos réglages, sensi, etc. Sauvegarder ça dans une note de Google Keep (ou équivalent) est un moyen simple de ne jamais les perdre.
 ## R6S
-Les paramètres de R6S sont situés dans le dossier **C:\Users\NOM D'UTILISATEUR\Documents\My Games**. Vous pouvez accéder directement au dossier sur n'importe quel PC en appuyant sur les touches **windows + R** puis en collant ** %USERPROFILE%\Documents\My Games **  
+Les paramètres de R6S sont situés dans le dossier **C:\Users\NOM D'UTILISATEUR\Documents\My Games**. Vous pouvez accéder directement au dossier sur n'importe quel PC en appuyant sur les touches **windows + R** puis en collant **%USERPROFILE%\Documents\My Games**  
 Une fois dans ce dossier, récupérez le fichier **GameSettings.ini** (ou sauvegardez même le dossier complet "My Games", c'est jamais perdu).
 
 ## Fortnite
