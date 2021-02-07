@@ -60,13 +60,28 @@ Clic droit sur un jeu -> Propriétés -> Fichiers locaux -> Déplacer le dossier
 ![steam déplacer](https://i.imgur.com/M29TObW.png)
 </details>
 Pour sauvegarder absolument tous les réglages des jeux et les sauvegardes, il faut aussi sauvegarder le dossier userdata qui est situé dans le dossier de Steam.
-L'empacement par défaut est C:\Program Files (x86)\Steam mais vous l'avez peut-être installé ailleurs.
+L'empacement par défaut est **C:\Program Files (x86)\Steam** mais vous l'avez peut-être installé ailleurs.
 <details>
   <summary>GIF</summary> 
   
 ![userdata](https://i.imgur.com/KnLhM1X.gif)
 </details>
 
-**Epic Games Store** :
+## Epic Games Store
+L'Epic games store étant très mal fait, il n'y a pas de méthode simple pour déplacer un jeu. Il existe cependant une méthode pour le faire.
+- Faire un backup du jeu en question (dossier d'installation par défaut : **C:\Program files\Epic Games**)
+- Désinstaller le jeu sur l'Epic games store
+- Réinstaller le jeu sur l'Epic games store, là ou vous voulez qu'il soit.
+- Attendre que le téléchargement commence, laisser passer 2-3%
+- Annuler l'installation.
+- Aller dans le dossier de destination, là ou vous voulez que le jeu soit
+- Copier le backup du jeu dans ce dossier (en disant oui si il vous demande de remplacer des fichiers)
+- Relancer l'installation dans l'Epic games launcher
+- Il devrait vérifier les fichiers, puis considérer le jeu comme installé.
+<details>
+  <summary>GIF</summary> 
+  
+![EGS](https://i.imgur.com/iaOgkDl.gif)
+</details>
 
 ## Logiciels : 
