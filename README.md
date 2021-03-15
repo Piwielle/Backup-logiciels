@@ -20,6 +20,11 @@
  - [**CoD: Warzone**](#cod-warzone)
  - [**Minecraft**](#minecraft)
  - [**GTA V**](#gta-v)
+## Logiciels
+ - [**MSI AFterburner**](#msi-afterburner)
+ - [**OBS**](#obs)
+ - [**OBS**](#obs)
+ - [**OBS**](#obs)
 
 # Navigateurs
 
