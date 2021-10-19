@@ -134,11 +134,13 @@ Pour les paramètres graphiques du jeu, vous pouvez backup le fichier **GameUser
 Les paramètres de league of legends sont les fichiers "**game.cfg**" et "**PersistedSettings.json**" dans le dossier
 - **C:\Riot Games\League of Legends\Config**
 Il faudra les sauvegarder quelque part, puis les remettre dans ce dossier après une réinstallation.
+
 /!\ Il faudra temporairement mettre ces fichiers en **lecture seule** (clic droit sur le fichier -> propriétés) pour la première fois que vous allez lancer le jeu, pour qu'ils s'appliquent. Une fois les paramètres appliqués, vous pouvez aller enlever le mode lecture seule. Il est important de l'enlever, sans quoi vous ne pourrez plus changer vos settings.
 
 ## PUBG
 Le fichier de paramètres à sauvegarder est le "**GameUserSettings.ini**", il est situé dans le dossier
-- **%localappdata%\TslGame\Saved\Config\WindowsNoEditor**
+- **%localappdata%\TslGame\Saved\Config\WindowsNoEditor** (appuyez sur les touches **windows + R** puis coller ce chemin pour y accéder)
+
 Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier après réinstallation du jeu.
 
 ## Apex Legends
