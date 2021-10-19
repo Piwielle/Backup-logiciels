@@ -145,7 +145,7 @@ Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier
 
 ## Apex Legends
 POur sauvegarder les fichiers de ce jeu, sauvegardez tous les fichiers et dossiers dans
-- **%userprofile%\Saved Games\Respawn\Apex\**
+- **%userprofile%\Saved Games\Respawn\Apex**
 
 Une fois le jeu réinstallé, il faudra remettre tous les dossiers et fichiers au même endroit.
 
