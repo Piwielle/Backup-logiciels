@@ -141,9 +141,19 @@ Il faudra les sauvegarder quelque part, puis les remettre dans ce dossier après
 Le fichier de paramètres à sauvegarder est le "**GameUserSettings.ini**", il est situé dans le dossier
 - **%localappdata%\TslGame\Saved\Config\WindowsNoEditor** (appuyez sur les touches **windows + R** puis coller ce chemin pour y accéder)
 
-Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier après réinstallation du jeu.
+Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier après réinstallation du jeu (il faudra lancer le jeu une première fois avant de remplacer le fichier).
 
 ## Apex Legends
+POur sauvegarder les fichiers de ce jeu, sauvegardez tous les fichiers et dossiers dans
+- ** %userprofile%\Saved Games\Respawn\Apex\ **
+
+Une fois le jeu réinstallé, il faudra remettre tous les dossiers et fichiers au même endroit.
+
 ## COD Warzone
+La majorité des settings sont censés être sauvegardés en ligne. Cependant, vous pouvez récupérer le fichier "**config.cfg**" situé dans le dossier
+- ** %userprofile%\Documents\Call of Duty Modern Warfare\players **
+
+Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier après réinstallation du jeu (il faudra lancer le jeu une première fois avant de remplacer le fichier).
+
 ## Minecraft
 ## GTA V
