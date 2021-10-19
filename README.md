@@ -21,7 +21,7 @@
  - [**Minecraft**](#minecraft)
 ## Logiciels
  - [**MSI AFterburner**](#msi-afterburner)
- - [**OBS**](#obs)
+ - [**OBS Studio**](#obs-studio)
 
 # Navigateurs
 
