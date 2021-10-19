@@ -19,11 +19,8 @@
  - [**Apex Legends**](#apex-legends)
  - [**CoD: Warzone**](#cod-warzone)
  - [**Minecraft**](#minecraft)
- - [**GTA V**](#gta-v)
 ## Logiciels
  - [**MSI AFterburner**](#msi-afterburner)
- - [**OBS**](#obs)
- - [**OBS**](#obs)
  - [**OBS**](#obs)
 
 # Navigateurs
@@ -156,4 +153,24 @@ La majorité des settings sont censés être sauvegardés en ligne. Cependant, v
 Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier après réinstallation du jeu (il faudra lancer le jeu une première fois avant de remplacer le fichier).
 
 ## Minecraft
-## GTA V
+Le plus simple pour Minecraft reste de sauvegarder le dossier entier de Minecraft, qui contient vos mondes, shaders, resources packs, etc. Pour faire ça, il faudra sauvegarder le dossier entier "**.Minecraft"** situé dans
+- **%appdata%**
+
+Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le même dossier après réinstallation du jeu (il faudra lancer le jeu une première fois avant de remplacer le dossier).
+
+
+# Logiciels
+
+## MSI Afterburner
+Pour Afterburner, il faudra sauvegarder un dossier, et un fichier. D'abord, le dossier "**Profiles**", et le fichier "**MSIAfterburner.cfg**", les deux situés dans le dossier
+- **%programfiles(x86)%\MSI Afterburner\**
+
+Pour la réinstallation, il faudra réinstaller MSI Afterburner, le lancer une première fois, puis le fermer, remettre le dossier et le fichier dans le même dossier que pour la sauvegarde, puis relancer Afterburner.
+
+## OBS Studio
+Pour OBS, il y a 3 dossiers principaux à sauvegarder : 
+- le dossier "**obs-studio**" qui contient les profils et scènes, situé dans **%appdata%**
+- le dossier "**obs-plugins**", situé dans **%programfiles%\obs-studio**
+- le dossier contenant vos assets, images, vidéos, etc, que vous avez mis quelque part sur votre PC
+
+Pour la réinstallation, il faudra réinstaller OBS Studio, le lancer une première fois, puis le fermer, remettre les dossiers dans les même dossiers que pour la sauvegarde, puis relancer OBS.
