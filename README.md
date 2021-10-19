@@ -145,13 +145,13 @@ Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier
 
 ## Apex Legends
 POur sauvegarder les fichiers de ce jeu, sauvegardez tous les fichiers et dossiers dans
-- ** %userprofile%\Saved Games\Respawn\Apex\ **
+- **%userprofile%\Saved Games\Respawn\Apex\**
 
 Une fois le jeu réinstallé, il faudra remettre tous les dossiers et fichiers au même endroit.
 
 ## COD Warzone
 La majorité des settings sont censés être sauvegardés en ligne. Cependant, vous pouvez récupérer le fichier "**config.cfg**" situé dans le dossier
-- ** %userprofile%\Documents\Call of Duty Modern Warfare\players **
+- **%userprofile%\Documents\Call of Duty Modern Warfare\players**
 
 Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le dossier après réinstallation du jeu (il faudra lancer le jeu une première fois avant de remplacer le fichier).
 
