@@ -31,7 +31,7 @@
 ## Google Chrome
 Être connecté avec un compte Google, et avoir synchronisé les favoris. Paramètres -> Services Google/synchronisation -> Gérer les contenus que vous synchronisez, puis choisir ce qui vous intéresse. Vos favoris, extensions, thèmes, onglets, etc seront ensutie synchronisés.
 <details>
-  <summary>Exemple image</summary> 
+  <summary>Exemple image (cliquer)</summary> 
   
   ![sync chrome](https://i.imgur.com/Xu7gh0t.png)
 </details>
@@ -40,7 +40,7 @@
 Être connecté avec un compte Microsoft, et avoir synchronisé les favoris.
 paramètres -> Synchroniser
 <details>
-  <summary>Exemple image</summary> 
+  <summary>Exemple image (cliquer)</summary> 
   
 ![sync edge](https://i.imgur.com/mHULZFB.png)
 </details>
@@ -49,7 +49,7 @@ paramètres -> Synchroniser
 Être connecté avec un compte Mozilla, et avoir synchronisé les favoris.
 Options -> Sync
 <details>
-  <summary>Exemple image</summary> 
+  <summary>Exemple image (cliquer)</summary> 
   
 ![sync firefox](https://i.imgur.com/01w20de.png)
 </details>
@@ -69,7 +69,7 @@ On peut ensuite simplement déplacer des jeux d'un dossier Steam à un autre.
 
 Clic droit sur un jeu -> Propriétés -> Fichiers locaux -> Déplacer le dossier d'installation
 <details>
-  <summary>Exemple GIF</summary> 
+  <summary>Exemple GIF (cliquer)</summary> 
   
 ![steam déplacer](https://i.imgur.com/j7t6fbL.gif)
 </details>
@@ -77,7 +77,7 @@ Clic droit sur un jeu -> Propriétés -> Fichiers locaux -> Déplacer le dossier
 Pour sauvegarder absolument tous les réglages des jeux et les sauvegardes, il faut aussi sauvegarder le dossier userdata qui est situé dans le dossier de Steam.  
 L'empacement par défaut est **C:\Program Files (x86)\Steam** mais vous l'avez peut-être installé ailleurs.
 <details>
-  <summary>Exemple GIF</summary> 
+  <summary>Exemple GIF (cliquer)</summary> 
   
 ![userdata](https://i.imgur.com/KnLhM1X.gif)
 </details>
@@ -94,7 +94,7 @@ L'Epic games store étant très mal fait, il n'y a pas de méthode simple pour d
 - Relancer l'installation dans l'Epic games launcher
 - Il devrait vérifier les fichiers, puis considérer le jeu comme installé.
 <details>
-  <summary>Exemple GIF</summary> 
+  <summary>Exemple GIF (cliquer)</summary> 
   
 ![EGS](https://i.imgur.com/iaOgkDl.gif)
 </details>
@@ -103,7 +103,7 @@ L'Epic games store étant très mal fait, il n'y a pas de méthode simple pour d
 Uplay permet assez facilement de déplacer et localiser des dossiers de jeux. Pour backup un jeu il suffit de cliquer sur le jeu -> propriétés -> ouvrir le dossier. Une fois dans l'exporateur de fichiers, la combinaise de touche **ALT+HAUT** vous permettra de remonter d'un cran. On peut ensuite prendre le dossier du jeu, et le copier ailleurs.
 Pour récupérer un jeu qu'on a back, il suffit de cliquer sur ce jeu dans le launcher, puis sur "localiser le jeu installé", juste en dessous du bouton télécharger.
 <details>
-  <summary>Exemple GIF</summary> 
+  <summary>Exemple GIF (cliquer)</summary> 
   
 ![Imgur](https://github.com/Piwielle/Backup-logiciels/blob/main/9llPPWntqb.gif)
 </details>
