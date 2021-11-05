@@ -163,7 +163,7 @@ Il faudra le sauvegarder avant de réinstaller, puis le remettre dans le même d
 
 ## MSI Afterburner
 Pour Afterburner, il faudra sauvegarder un dossier, et un fichier. D'abord, le dossier "**Profiles**", et le fichier "**MSIAfterburner.cfg**", les deux situés dans le dossier
-- ** %programfiles(x86)%\MSI Afterburner\ **
+-  %programfiles(x86)%\MSI Afterburner\ 
 
 Pour la réinstallation, il faudra réinstaller MSI Afterburner, le lancer une première fois, puis le fermer, remettre le dossier et le fichier dans le même dossier que pour la sauvegarde, puis relancer Afterburner.
 
