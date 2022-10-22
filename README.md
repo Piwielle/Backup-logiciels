@@ -1,5 +1,9 @@
 # Backup-logiciels
+En prévision d'une réinstallation de Windows, il faut sauvegarder ses données importantes. Il est posible de sauvegarder ses trucs sur un second disque à l'intérieur du PC, sur un disque dur externe, sur une clé USB, sur un autre PC, sur un service de stockage dans le cloud de votre choix, peu importe. Prend ce qui t'arrange le plus.
 
+Le plus simple à sauvegarder, c'est tout ce qui est documents, images, vidéos, téléchargements, etc. Tout ça se sauvegarder simplement avec un copier/coller, et tout va bien.
+
+Là ou ça devient plus compliqué, c'est pour les choses comme les favoris sur navigateur, les jeux, les paramètres de jeux, les paramètres de logiciel, etc. Y'a des étapes spécifiques à faire, et c'est jamais simple. J'essaie ici de répertorier des solutions pour les navigateurs et les jeux populaires. Si tu as une application ou un jeu qui n'est pas dans cette liste, la solution pour le backup se trouve probablement sur google. Une recherche avec les mots clés "backup settings csgo" t'aidera sans doute.
 
 ## Navigateurs
  - [**Google Chrome**](#google-chrome)
