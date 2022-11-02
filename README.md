@@ -5,6 +5,8 @@ Le plus simple à sauvegarder, c'est tout ce qui est documents, images, vidéos,
 
 Là ou ça devient plus compliqué, c'est pour les choses comme les favoris sur navigateur, les jeux, les paramètres de jeux, les paramètres de logiciel, etc. Y'a des étapes spécifiques à faire, et c'est jamais simple. J'essaie ici de répertorier des solutions pour les navigateurs et les jeux populaires. Si tu as une application ou un jeu qui n'est pas dans cette liste, la solution pour le backup se trouve probablement sur google. Une recherche avec les mots clés "backup settings csgo" t'aidera sans doute.
 
+Y'a une vidéo support qui peut t'aider à appréhender un backup, à quoi réfléchir et quoi sauvegarder : [<img src="https://i.imgur.com/cRUau5i.png" height="20" width="30" alt="Logo YouTube" class="img-logo-ytb"> Comment sauvegarder son PC avant de le formater](https://youtu.be/3wkS_porgtA)
+
 ## Navigateurs
  - [**Google Chrome**](#google-chrome)
  - [**Microsoft Edge**](#microsoft-edge)
