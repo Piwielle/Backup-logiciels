@@ -9,28 +9,6 @@ Y'a une vidéo support qui peut t'aider à appréhender un backup, à quoi réfl
 
 [<img src="https://i.imgur.com/cRUau5i.png" height="20" width="30" alt="Logo YouTube" class="img-logo-ytb"> Comment sauvegarder son PC avant de le formater](https://youtu.be/3wkS_porgtA)
 
-## Navigateurs
- - [**Google Chrome**](#google-chrome)
- - [**Microsoft Edge**](#microsoft-edge)
- - [**Mozilla Firefox**](#mozilla-firefox)
-## Installation de jeux
- - [**Steam**](#steam)
- - [**Epic Games Store**](#epic-games-store)
- - [**Uplay**](#uplay)
-## Paramètres de jeux
- - [**CS:GO**](#cs-go)
- - [**Valorant**](#valorant)
- - [**R6S**](#r6s)
- - [**Fortnite**](#fortnite)
- - [**League of Legends**](#league-of-legends)
- - [**PUBG**](#pubg)
- - [**Apex Legends**](#apex-legends)
- - [**CoD: Warzone**](#cod-warzone)
- - [**Minecraft**](#minecraft)
-## Logiciels
- - [**MSI AFterburner**](#msi-afterburner)
- - [**OBS Studio**](#obs-studio)
-
 # Navigateurs
 
 ## Google Chrome
